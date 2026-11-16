@@ -7,11 +7,11 @@
 ---
 
 ## 👤 Identificação do Aluno
-*   **Nome Completo:** [Preencha aqui seu nome]
-*   **Matrícula:** [Preencha aqui sua matrícula]
-*   **Seu usuário na VM (Questão 4):** [ex.: joaosilva]
-*   **Link do seu Repositório no GitHub:** [Preencha aqui o link]
-*   **Data de Realização:** [Preencha aqui a data]
+*   **Nome Completo:** Gustavo Haziel Almeida Lins de Carvalho Silva
+*   **Matrícula:** 2024335075
+*   **Seu usuário na VM (Questão 4):** Administrador
+*   **Link do seu Repositório no GitHub:** [[Preencha aqui o link]](https://github.com/GustavoHaziel1/lsor-2026.2-sysdev-GustavoHaziel-avaliacao2)
+*   **Data de Realização:** 16/11/2026
 
 ---
 
