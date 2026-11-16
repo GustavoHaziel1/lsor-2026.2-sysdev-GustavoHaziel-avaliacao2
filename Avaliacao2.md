@@ -10,7 +10,7 @@
 *   **Nome Completo:** Gustavo Haziel Almeida Lins de Carvalho Silva
 *   **Matrícula:** 2024335075
 *   **Seu usuário na VM (Questão 4):** Administrador
-*   **Link do seu Repositório no GitHub:** [[Preencha aqui o link]](https://github.com/GustavoHaziel1/lsor-2026.2-sysdev-GustavoHaziel-avaliacao2)
+*   **Link do seu Repositório no GitHub:** (https://github.com/GustavoHaziel1/lsor-2026.2-sysdev-GustavoHaziel-avaliacao2)
 *   **Data de Realização:** 16/11/2026
 
 ---
