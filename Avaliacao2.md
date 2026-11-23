@@ -88,7 +88,9 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q1_vm_importada.png` mostrando a janela do VirtualBox com a VM `avaliacao2-<seunome>` (memória e CPU à vista) e o console da VM com o login feito.
 
 *   **Sua resposta:**
-    [Substitua este texto pelos passos realizados, os prints e a sua frase de interpretação]
+    Importei, configurei, executei e loguei na vm
+    ![Q1](prints/q1_console.png)
+    ![Q1](prints/q1_vm_importada.png)
 
 ---
 
@@ -116,7 +118,10 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q2_ip_addr.png` (saída de `ip addr show` e `ip route`) e `q2_ping.png` (os testes de `ping`).
 
 *   **Sua resposta:**
-    [Comandos, tabela preenchida, prints e interpretação. Se algum ping falhar, diga em qual camada está o problema.]
+    executei os comandos exigidos, printei e os documentei
+    ![Q2](prints/q2_ip_addr_show.png)
+    ![Q2](prints/q2_ip_route.png)
+    ![Q2](prints/q2_ping.png)
 
 ---
 
@@ -142,7 +147,8 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q3_netstat_antes.png`, `q3_regra_virtualbox.png`, `q3_netstat_listening.png` e `q3_ssh_w.png`.
 
 *   **Sua resposta:**
-    [Comandos, prints e interpretação]
+    executei os comandos exigidos, printei e os documentei
+    ![Q3](prints/q3_netstat.png)
 
 ---
 
@@ -164,8 +170,8 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q4_adduser.png` (criação do **seu** usuário) e `q4_usuarios.png` (saída do `tail`).
 
 *   **Sua resposta:**
-    [Comandos, prints e interpretação]
-
+    adicionei 5 usuarios
+    ![Q4](prints/q4_adduser.png)
 ---
 
 ### 🧑‍🤝‍🧑 QUESTÃO 5: Grupos das Equipes
@@ -184,7 +190,8 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q5_grupos.png` mostrando os comandos de criação/associação e as saídas do `id` e do `getent`.
 
 *   **Sua resposta:**
-    [Comandos, prints e interpretação]
+    criei grupos e adicionei os usuarios criados
+    ![Q5](prints/q5_usermod.png)
 
 ---
 
@@ -209,7 +216,9 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q6_fhs.png` (raiz e links simbólicos) e `q6_mkdir_ls_r.png` (árvore criada).
 
 *   **Sua resposta:**
-    [Comandos, prints e interpretação]
+    executei os comandos para criar os diretorios e listá-los
+    ![Q6](prints/q6_bin+sbin.png)
+    ![Q6](prints/q6_ls-R.png)
 
 ---
 
@@ -229,7 +238,8 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q7_antes_depois.png` (com os comandos `chown`/`chmod` e o `ls -ld` antes e depois) e `q7_readme_660.png`.
 
 *   **Sua resposta:**
-    [Comandos, prints e interpretação]
+    ![Q7](prints/q7_chmod.png)
+    ![Q7](prints/q7_ls-l.png)
 
 ---
 
